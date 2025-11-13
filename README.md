@@ -3,7 +3,7 @@
 ## Português 🇧🇷
 Esse projeto é especializado para o meu desenvolvimento com os estudos e prática com a *linguagem de programação Python*.
 
-📝 **Notas:** Os algoritmos estão em português para facilitar meu aprendizado, e a tradução em inglês foi feita para tornar o conteúdo mais acessível a todos.
+📝 **Notas:** Os algoritmos estão em português para facilitar meu aprendizado, e a tradução em inglês foi feita para tornar o conteúdo mais acessível para todos.
 
 ⚠️ **Atenção:** este projeto ainda está em desenvolvimento.
 
