@@ -3,27 +3,27 @@
 ## Português 🇧🇷
 Esse projeto é especializado para o meu desenvolvimento com os estudos e prática com a *linguagem de programação Python*.
 
-📝 **Notas:** Os algoritmos estão em português para facilitar meu aprendizado, e a tradução em inglês foi feita para tornar o conteúdo mais acessível para todos.
+📝 **Notas:** Os algoritmos estão em português para facilitar meu aprendizado, e a tradução em inglês foi feita para tornar o conteúdo mais acessível para todos. Peço perdão por qualquer erro nos algoritmos em Python e nas linguagens português, francês, inglês e espanhol.
 
 ⚠️ **Atenção:** este projeto ainda está em desenvolvimento.
 
 ## English 🇺🇸
 This project is specifically designed for my development through studies and practice with the *Python programming language*.
 
-📝 **Notes:** The algorithms are written in Portuguese to make my learning easier, and the English translation helps make the content more accessible to everyone.
+📝 **Notes:** The algorithms are written in Portuguese to make my learning easier, and the English translation helps make the content more accessible to everyone. I apologize for any mistakes in the Python algorithms and in the Portuguese, French, English, and Spanish languages.
 
 ⚠️ **Warning:** This project is still under development.
 
 ## Español 🇪🇸
 Este proyecto está diseñado específicamente para mi desarrollo a través del estudio y la práctica del *lenguaje de programación Python*.
 
-📝 **Notas:** Los algoritmos están en portugués para facilitar mi aprendizaje, y la traducción al inglés hace que el contenido sea más accesible para todos.
+📝 **Notas:** Los algoritmos están en portugués para facilitar mi aprendizaje, y la traducción al inglés hace que el contenido sea más accesible para todos. Pido perdón por cualquier error en los algoritmos de Python y en los idiomas portugués, francés, inglés y español.
 
 ⚠️ **Advertencia:** Este proyecto aún está en desarrollo.
 
 ## Français 🇫🇷
 Ce projet est spécifiquement conçu pour mon développement à travers l'étude et la pratique du *langage de programmation Python*.
 
-📝 **Notes:** Les algorithmes sont en portugais pour faciliter mon apprentissage, et la traduction en anglais rend le contenu plus accessible à tout le monde.
+📝 **Notes:** Les algorithmes sont en portugais pour faciliter mon apprentissage, et la traduction en anglais rend le contenu plus accessible à tout le monde. Je m’excuse pour toute erreur dans les algorithmes Python et dans les langues portugais, français, anglais et espagnol.
 
 ⚠️ **Avertissement :** Ce projet est encore en développement.
