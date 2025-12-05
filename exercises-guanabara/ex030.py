@@ -3,7 +3,7 @@
 # Escriba un programa que lea un número entero y muestre en la pantalla si es PAR o IMPAR. 🇪🇸
 # Écrivez un programme qui lit un entier et affiche à l'écran s'il est PAIR ou IMPAIR. 🇫🇷
 
-num = int(input("Enter a integer: "))
+num = int(input("Enter an integer: "))
 
 if num % 2 == 0:
     print(f"The integer {num} is even.")
