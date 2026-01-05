@@ -24,6 +24,8 @@ O projeto consiste em um pequeno sistema de RPG por turnos, onde o jogador escol
 
 Este projeto foi criado com o objetivo de **praticar programação orientada a objetos**, lógica de jogo e organização de código em Python.
 
+⚠️ **Observação:** Peço desculpas pelo projeto ainda não estar totalmente traduzido para todas as línguas durante sua utilização para testes.
+
 ---
 
 ## 🇺🇸 English
@@ -47,6 +49,8 @@ The project is a small turn-based RPG system where the player chooses a characte
   * Manages the battle flow by rounds until one character is defeated.
 
 This project was created to **practice object-oriented programming**, game logic, and code organization in Python.
+
+⚠️ **Note:** I apologize that the project is not yet fully translated into all languages during testing.
 
 ---
 
@@ -72,6 +76,8 @@ El proyecto consiste en un pequeño sistema de RPG por turnos, donde el jugador 
 
 Este proyecto fue creado con el objetivo de **practicar programación orientada a objetos**, lógica de juego y organización de código en Python.
 
+⚠️ **Nota:** Pido disculpas porque el proyecto aún no está completamente traducido a todos los idiomas durante las pruebas.
+
 ---
 
 ## 🇫🇷 Français
@@ -96,6 +102,11 @@ Le projet consiste en un petit système de RPG au tour par tour, dans lequel le 
 
 Ce projet a été créé dans le but de **pratiquer la programmation orientée objet**, la logique de jeu et l’organisation du code en Python.
 
+⚠️ **Remarque :** Je m’excuse car le projet n’est pas encore entièrement traduit dans toutes les langues pendant la phase de test.
+
 ---
 
+✨ *Obrigado por visitar este projeto!*
+✨ *Thank you for visiting this project!*
+✨ *¡Gracias por visitar este proyecto!*
 ✨ *Merci de visiter ce projet !*
